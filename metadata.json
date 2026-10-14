@@ -1,0 +1,6 @@
+{
+  "name": "WealthFlow Dashboard",
+  "description": "WealthFlow Dashboard for finance management, budgets tracking, transaction history, and AI-powered debt recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
